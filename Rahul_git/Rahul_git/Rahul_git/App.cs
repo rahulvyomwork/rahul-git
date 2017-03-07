@@ -26,7 +26,7 @@ namespace Rahul_git
 
                         new Label {
                             HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms in branch 2!"
+                            Text = "Welcome to Xamarin Forms in branch 1!"
                         }
                     }
                 }
